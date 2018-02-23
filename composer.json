@@ -1,0 +1,22 @@
+{
+	"name": "abram/laravel-filemaker",
+	"description": "Filemaker integration for Laravel framework",
+	"type": "library",
+	"homepage": "https://github.com/andreossido/laravel-filemaker",
+	"authors": [
+		{
+			"name": "Andrea Abram",
+			"email": "andreossido@gmail.com",
+			"homepage": "https://github.com/andreossido",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"abram/laravel-odbc": "dev-master"
+	},
+	"autoload": {
+		"classmap": [
+			"src"
+		]
+	}
+}
