@@ -14,7 +14,6 @@
 	"require": {
 		"abram/laravel-odbc": "dev-master"
 	},
-	"minimum-stability": "dev",
 	"autoload": {
 		"classmap": [
 			"src"
